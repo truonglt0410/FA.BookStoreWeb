@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/FA.BookStoreWeb/.vs/FA.BookStoreWeb
+/src/FA.BookStoreWeb/FA.BookStoreWeb.MVC/bin
+/src/FA.BookStoreWeb/FA.BookStoreWeb.MVC/obj/Debug
+/src/FA.BookStoreWeb/packages
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Common/bin/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Common/obj/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Data/bin/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Data/obj/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Models/obj/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Models/bin/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Service/obj/Debug
+/src/FA.BookStoreWeb/FA.BookStoreWeb.Service/bin/Debug
